@@ -1,4 +1,4 @@
-# Sync PostgreSQL with Elasticsearch via Debezium
+# Sync PostgreSQL with Elasticsearch via Debezium for AutoCompleted search(Search-As-You-Type)
 
 ### Schema
 
@@ -141,3 +141,5 @@ curl http://localhost:9200/users/_search?q=id:6
   }
 }
 ```
+#link ref  
+https://coralogix.com/blog/elasticsearch-autocomplete-with-search-as-you-type/  
