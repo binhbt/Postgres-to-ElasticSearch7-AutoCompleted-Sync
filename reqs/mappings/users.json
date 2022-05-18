@@ -1,0 +1,15 @@
+{
+  "settings": {
+    "number_of_shards": 1
+  },
+  "mappings": {
+      "properties": {
+        "after.id": {
+          "type": "integer"
+        },
+        "after.email": {
+          "type": "search_as_you_type"
+        }
+    }
+  }
+}
