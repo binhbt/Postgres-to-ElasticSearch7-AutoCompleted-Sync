@@ -143,3 +143,4 @@ u
 See result when you type on console  
 # Ref  
 https://coralogix.com/blog/elasticsearch-autocomplete-with-search-as-you-type/  
+https://github.com/YegorZaremba/sync-postgresql-with-elasticsearch-example
