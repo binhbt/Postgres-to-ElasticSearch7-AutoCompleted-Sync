@@ -1,4 +1,4 @@
-# Sync PostgreSQL with Elasticsearch via Debezium for AutoCompleted search(Search-As-You-Type)
+# Sync PostgreSQL with Elasticsearch v7.x via Debezium for AutoCompleted search(Search-As-You-Type)
 
 ### Schema
 
